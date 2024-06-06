@@ -1,0 +1,19 @@
+Gestion Affichage
+
+Instructions pour le Test
+
+Configuration de la Base de Données:
+    1 - Ouvrez votre outil de gestion de bases de données (par exemple, phpMyAdmin).
+    2 - Créez une nouvelle base de données avec un nom approprié(educomm).
+    3 - Accédez à l onglet "SQL" ou "Requête" dans votre outil de gestion de bases de données.
+    4 - Copiez-collez le contenu du fichier data_base.sql fourni dans la zone de requête SQL.
+    5 - Exécutez la requête pour créer les tables et configurer la structure de la base de données.
+
+Compte Administrateur
+
+Utilisez les informations ci-dessous pour accéder au compte administrateur et explorer les fonctionnalités de gestion affichage :
+    Nom utilisateur : admin
+    Mot de passe : admin123
+
+Remarque Importante
+Assurez-vous d avoir correctement créé la base de données en copiant le script SQL dans votre outil de gestion de bases de données.
